@@ -1,8 +1,15 @@
-# React + Vite
+# Hover Buttons - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of creative hover button effects built with React and Vite.
 
-Currently, two official plugins are available:
+## Features
+- Stunning hover effects for buttons.
+- Minimal setup with fast refresh using Babel or SWC.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+Explore it here: [hoverbuttons.vercel.app](https://hoverbuttons.vercel.app/)
+
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/hover-buttons.git
