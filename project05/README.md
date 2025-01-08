@@ -1,2 +1,2 @@
 
-Explore it here: [checkbox-umber.vercel.app](https://navbar-beta-five.vercel.app/)
+Explore it here: [Navbar](https://navbar-beta-five.vercel.app/)
